@@ -19,6 +19,9 @@ public class QueryParameter {
 	public String getFileName() {
 		return fileName;
 	}
+	public String getFile() {
+		return fileName;
+	}
 	public void setFileName(String fileName) {
 		this.fileName = fileName;
 	}
